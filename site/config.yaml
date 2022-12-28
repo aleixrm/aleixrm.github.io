@@ -1,0 +1,16 @@
+baseURL: https://aleixrm.github.io/
+languageCode: en-us
+title: "aleixrm's personal blog"
+defaultContentLanguage: es
+languages:
+    es:
+        languageName: "Spanish"
+        weight: 1
+    en:
+        languageName: "English"
+        weight: 2
+params:
+     themeColor: green
+module:
+    imports:
+        path: github.com/panr/hugo-theme-terminal
